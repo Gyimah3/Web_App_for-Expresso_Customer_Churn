@@ -71,8 +71,7 @@ elif social_acc_nav == 'EDA':
     st.sidebar.markdown("<h2 style='text-align: center;'> Exploratory Data Analysis </h2> ", unsafe_allow_html=True)
     st.sidebar.markdown('''---''')
     st.sidebar.markdown('''The exploratory data analysis of this project can be find in a Jupyter notebook from the linl below''')
-    st.sidebar.markdown("[Open Notebook](https://github.com/Gyimah3/Store-Sales----Time-Series-Forecasting-Regression-project-/blob/main/Store%20Sales%20--%20Time%20Series%20Forecasting(Regression%20project).ipynb)")
-
+    st.sidebar.markdown("[Open Notebook](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction)
 elif social_acc_nav == 'About App':
     st.sidebar.markdown("<h2 style='text-align: center;'> Customer Churn prediction App </h2> ", unsafe_allow_html=True)
     st.sidebar.markdown('''---''')
@@ -85,7 +84,7 @@ elif social_acc_nav == 'About App':
                         i.e. becoming inactive and not making any transactions for 90 days. This solution will help
                         this telecom company to better serve their customers by understanding which customers are at risk of leaving""")
     st.sidebar.markdown("")
-    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Gyimah3/Store-Sales----Time-Series-Forecasting-Regression-project-)")
+    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction)")
     st.sidebar.markdown("Dedicated to: mom❄️ and Sis Evelyn❄️.")
     st.sidebar.markdown("")
     
