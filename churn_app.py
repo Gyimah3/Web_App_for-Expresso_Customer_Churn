@@ -84,7 +84,7 @@ elif social_acc_nav == 'About App':
                         i.e. becoming inactive and not making any transactions for 90 days. This solution will help
                         this telecom company to better serve their customers by understanding which customers are at risk of leaving""")
     st.sidebar.markdown("")
-    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction")
+    st.sidebar.markdown("[ Visit Github Repository for more information](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction)")
     st.sidebar.markdown("Dedicated to: mom❄️ and Sis Evelyn❄️.")
     st.sidebar.markdown("")
     
