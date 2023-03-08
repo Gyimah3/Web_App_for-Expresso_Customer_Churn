@@ -32,9 +32,9 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 <table>
     <tr>
-        <th>Input Interface and sidebar</th>
-        <th>Side Interface and Bar</th>
-        <th>Side Interface and Bar</th>
+        <th>Interface and sidebar</th>
+        <th>Input Interface and SideBar</th>
+        <th>Interface and Bar</th>
         <th>After Prediction</th>
     </tr>
     <tr>
@@ -46,8 +46,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 </table>
 
     
-    ## Author:
-[Gyimah Gideon](https:// https://www.linkedin.com/in/gideon-gyimah-08268b243/)
-    
+  ## Author:
+[FK Baffour](https://www.linkedin.com/in/gideon-gyimah-08268b243/)  
 
    
