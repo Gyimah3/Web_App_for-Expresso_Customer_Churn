@@ -47,6 +47,6 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
     
   ## Author:
-[FK Baffour](https://www.linkedin.com/in/gideon-gyimah-08268b243/)  
+[Gyimah Gideon](https://www.linkedin.com/in/gideon-gyimah-08268b243/)  
 
    
