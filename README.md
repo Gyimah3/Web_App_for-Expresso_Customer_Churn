@@ -34,7 +34,7 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
     <tr>
         <th>Interface and sidebar</th>
         <th>Input Interface and SideBar</th>
-        <th>Interface and Bar</th>
+        <th>Input Interface and Bar</th>
         <th>After Prediction</th>
     </tr>
     <tr>
