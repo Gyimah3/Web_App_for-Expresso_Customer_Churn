@@ -28,6 +28,12 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
         
     [click here](https://huggingface.co/spaces/Gyimah3/Expresso_Customer_Churn_app)
     
+    
+- You can access the hosted app on streamlit cloud at the link below :
+        
+    [click here](https://)https://gyimah3-web-app-for-expresso-customer-churn-churn-app-t8mqve.streamlit.app/)
+    
+    
  ## Screenshots
 
 <table>
