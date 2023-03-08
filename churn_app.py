@@ -70,8 +70,8 @@ if social_acc_nav == 'Data Field Description':
 elif social_acc_nav == 'EDA':
     st.sidebar.markdown("<h2 style='text-align: center;'> Exploratory Data Analysis </h2> ", unsafe_allow_html=True)
     st.sidebar.markdown('''---''')
-    st.sidebar.markdown('''The exploratory data analysis of this project can be find in a Jupyter notebook from the linl below''')
-    st.sidebar.markdown("[Open Notebook](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction")
+    st.sidebar.markdown('''The exploratory data analysis of this project can be find in a Jupyter notebook from the link below''')
+    st.sidebar.markdown("[Open Notebook](https://github.com/Gyimah3/Expresso_Customer_Churn_Prediction)")
 elif social_acc_nav == 'About App':
     st.sidebar.markdown("<h2 style='text-align: center;'> Customer Churn prediction App </h2> ", unsafe_allow_html=True)
     st.sidebar.markdown('''---''')
