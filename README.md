@@ -22,8 +22,32 @@ For manual installation, you need to have [`Python3`](https://www.python.org/) o
 
 - Run the demo apps (being at the repository root):
 
-        streamlit run app.py
+        streamlit run churn_app.py
 
 - You can access the hosted app on Huggingface spaces at the link below :
         
-    [click here](https://huggingface.co/spaces/FKBaffour/Streamlit-App-for-Titanic-Survival-Prediction)
+    [click here](https://huggingface.co/spaces/Gyimah3/Expresso_Customer_Churn_app)
+    
+ ## Screenshots
+
+<table>
+    <tr>
+        <th>Input Interface and sidebar</th>
+        <th>Side Interface and Bar</th>
+        <th>Side Interface and Bar</th>
+        <th>After Prediction</th>
+    </tr>
+    <tr>
+        <td><img src="./images/screen1.png"/></td>
+        <td><img src="./images/screen2.png"/></td>
+        <td><img src="./images/screen3.png"/></td>
+        <td><img src="./images/screen4.png"/></td>
+    </tr>
+</table>
+
+    
+    ## Author:
+[Gyimah Gideon](https:// https://www.linkedin.com/in/gideon-gyimah-08268b243/)
+    
+
+   
